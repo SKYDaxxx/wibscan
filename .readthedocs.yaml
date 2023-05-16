@@ -15,7 +15,5 @@ sphinx:
 
 # Optionally declare the Python requirements required to build your docs
 python:
-  version: "3.8"
-  install:
-    - method: pip
-    - requirements: wibscan/docs/requirements.txt
+   install:
+   - requirements: wibscan/docs/requirements.txt
