@@ -1,3 +1,0 @@
-myst-parser
-sphinx-rtd-theme
-sphinx-=6.2
