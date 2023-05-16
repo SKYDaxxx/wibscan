@@ -1,7 +1,7 @@
 # COMPOSICION DEL PROYECTO
 
 El proyecto se compone de diferentes módulos para su funcionamiento.
-El módulo principal es `main.py` el cual mandara a llamar a los otros modulos durante su ejecución.
+El módulo principal es `wibscan.py` el cual mandara a llamar a los otros modulos durante su ejecución.
 
 
 ## wibscan.py
